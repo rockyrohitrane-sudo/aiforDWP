@@ -1,0 +1,17 @@
+[2026-08-05 17:34:45] [INFO] Starting audit mode. ThresholdMB=1, DryRun=True
+[2026-08-05 17:34:45] [INFO] Scanning target: C:\Users\labuser\Documents\Training\day3
+[2026-08-05 17:34:45] [INFO] Run summary:
+[2026-08-05 17:34:45] [INFO] Mode: audit
+[2026-08-05 17:34:45] [INFO] ThresholdMB: 1
+[2026-08-05 17:34:45] [INFO] TargetFoldersScanned: 1
+[2026-08-05 17:34:45] [INFO] FilesEnumerated: 30
+[2026-08-05 17:34:45] [INFO] FilesMatched: 0
+[2026-08-05 17:34:45] [INFO] FilesQuarantined: 0
+[2026-08-05 17:34:45] [INFO] FilesRestored: 0
+[2026-08-05 17:34:45] [INFO] DryRunWouldQuarantine: 0
+[2026-08-05 17:34:45] [INFO] SkippedAlreadyQuarantined: 0
+[2026-08-05 17:34:45] [INFO] SkippedAlreadyRestored: 0
+[2026-08-05 17:34:45] [INFO] SkippedMissingSource: 0
+[2026-08-05 17:34:45] [INFO] SkippedUnreachablePath: 0
+[2026-08-05 17:34:45] [INFO] Errors: 0
+[2026-08-05 17:34:45] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\large-file-finder-audit-20260805-173445.log

@@ -1,0 +1,24 @@
+[2026-08-05 17:49:45] [INFO] Starting audit mode. LowFreeSpacePercent=15, SkipOptimizationAnalysis=True
+[2026-08-05 17:49:45] [INFO] Scanning drive: C:
+[2026-08-05 17:49:51] [INFO] Optimisation analysis skipped for C:
+[2026-08-05 17:49:51] [INFO] Reported drive C: with status Healthy
+[2026-08-05 17:49:51] [ERROR] Fatal error: Type: System.Management.Automation.PropertyNotFoundException | Message: The property 'DriveLetter' cannot be found on this object. Verify that the property exists. | Position: At C:\Users\labuser\Documents\Training\day3\disk-health-reporter.ps1:437 char:13
++             Write-Log -Level 'ERROR' -Message ("Failed to write repor ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ | Stack: at Invoke-Audit, C:\Users\labuser\Documents\Training\day3\disk-health-reporter.ps1: line 437
+at <ScriptBlock>, C:\Users\labuser\Documents\Training\day3\disk-health-reporter.ps1: line 538
+[2026-08-05 17:49:51] [INFO] Run summary:
+[2026-08-05 17:49:51] [INFO] Mode: audit
+[2026-08-05 17:49:51] [INFO] LowFreeSpacePercent: 15
+[2026-08-05 17:49:51] [INFO] DrivesScanned: 1
+[2026-08-05 17:49:51] [INFO] VolumesReported: 1
+[2026-08-05 17:49:51] [INFO] HealthyVolumes: 1
+[2026-08-05 17:49:51] [INFO] WarningVolumes: 0
+[2026-08-05 17:49:51] [INFO] CriticalVolumes: 0
+[2026-08-05 17:49:51] [INFO] LowFreeSpaceVolumes: 0
+[2026-08-05 17:49:51] [INFO] OptimizationAnalysed: 0
+[2026-08-05 17:49:51] [INFO] OptimizationSkipped: 1
+[2026-08-05 17:49:51] [INFO] OptimizationUnavailable: 0
+[2026-08-05 17:49:51] [INFO] RollbackRestored: 0
+[2026-08-05 17:49:51] [INFO] RollbackSkipped: 0
+[2026-08-05 17:49:51] [INFO] Errors: 2
+[2026-08-05 17:49:51] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\disk-health-reporter-audit-20260805-174945.log

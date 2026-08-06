@@ -1,0 +1,22 @@
+[2026-08-05 17:32:38] [INFO] Starting audit mode. ThresholdMB=1, DryRun=True
+[2026-08-05 17:32:39] [INFO] Scanning target: C:\Users\labuser\Documents\Training\day3
+[2026-08-05 17:32:39] [ERROR] Fatal error: Type: System.ArgumentException | Message: Argument types do not match | Position: At C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1:331 char:16
++         return @($results)
++                ~~~~~~~~~~~ | Stack: at Get-LargeFiles, C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1: line 331
+at Invoke-Audit, C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1: line 466
+at <ScriptBlock>, C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1: line 520
+[2026-08-05 17:32:39] [INFO] Run summary:
+[2026-08-05 17:32:39] [INFO] Mode: audit
+[2026-08-05 17:32:39] [INFO] ThresholdMB: 1
+[2026-08-05 17:32:39] [INFO] TargetFoldersScanned: 1
+[2026-08-05 17:32:39] [INFO] FilesEnumerated: 27
+[2026-08-05 17:32:39] [INFO] FilesMatched: 0
+[2026-08-05 17:32:39] [INFO] FilesQuarantined: 0
+[2026-08-05 17:32:39] [INFO] FilesRestored: 0
+[2026-08-05 17:32:39] [INFO] DryRunWouldQuarantine: 0
+[2026-08-05 17:32:39] [INFO] SkippedAlreadyQuarantined: 0
+[2026-08-05 17:32:39] [INFO] SkippedAlreadyRestored: 0
+[2026-08-05 17:32:39] [INFO] SkippedMissingSource: 0
+[2026-08-05 17:32:39] [INFO] SkippedUnreachablePath: 0
+[2026-08-05 17:32:39] [INFO] Errors: 1
+[2026-08-05 17:32:39] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\large-file-finder-audit-20260805-173238.log

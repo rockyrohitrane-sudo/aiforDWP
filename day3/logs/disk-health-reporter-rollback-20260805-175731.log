@@ -1,0 +1,21 @@
+[2026-08-05 17:57:32] [INFO] Starting rollback mode using manifest: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175719\manifest-20260805-175719.json
+[2026-08-05 17:57:32] [INFO] Rollback restored report to: c:\Users\labuser\Documents\Training\day3\reports\restored\disk-health-reporter-restored-validation.csv
+[2026-08-05 17:57:32] [INFO] Run summary:
+[2026-08-05 17:57:32] [INFO] Mode: rollback
+[2026-08-05 17:57:32] [INFO] LowFreeSpacePercent: 15
+[2026-08-05 17:57:32] [INFO] DrivesScanned: 0
+[2026-08-05 17:57:32] [INFO] VolumesReported: 0
+[2026-08-05 17:57:32] [INFO] HealthyVolumes: 0
+[2026-08-05 17:57:32] [INFO] WarningVolumes: 0
+[2026-08-05 17:57:32] [INFO] CriticalVolumes: 0
+[2026-08-05 17:57:32] [INFO] LowFreeSpaceVolumes: 0
+[2026-08-05 17:57:32] [INFO] OptimizationAnalysed: 0
+[2026-08-05 17:57:32] [INFO] OptimizationSkipped: 0
+[2026-08-05 17:57:32] [INFO] OptimizationUnavailable: 0
+[2026-08-05 17:57:32] [INFO] DryRunWouldWriteReport: 0
+[2026-08-05 17:57:32] [INFO] RollbackRestored: 1
+[2026-08-05 17:57:32] [INFO] RollbackSkipped: 0
+[2026-08-05 17:57:32] [INFO] Errors: 0
+[2026-08-05 17:57:32] [INFO] ReportPath: c:\Users\labuser\Documents\Training\day3\reports\restored\disk-health-reporter-restored-validation.csv
+[2026-08-05 17:57:32] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175719\manifest-20260805-175719.json
+[2026-08-05 17:57:32] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\disk-health-reporter-rollback-20260805-175731.log

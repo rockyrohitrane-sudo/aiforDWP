@@ -1,0 +1,26 @@
+﻿[
+    {
+        "OriginalPath":  "C:\\Users\\labuser\\AppData\\Local\\Temp\\2\\gen_py\\3.9\\dicts.dat",
+        "QuarantinePath":  "C:\\Users\\labuser\\Documents\\Training\\day3\\quarantine\\cleanup-20260805-113740\\04c0439252584366992049a71055ec6f_dicts.dat",
+        "FileName":  "dicts.dat",
+        "SizeBytes":  10,
+        "LastWriteTime":  "\/Date(1785918836989)\/",
+        "MovedAt":  {
+                        "value":  "\/Date(1785929860882)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "Wednesday, August 5, 2026 11:37:40 AM"
+                    }
+    },
+    {
+        "OriginalPath":  "C:\\Users\\labuser\\AppData\\Local\\Temp\\2\\gen_py\\3.9\\__init__.py",
+        "QuarantinePath":  "C:\\Users\\labuser\\Documents\\Training\\day3\\quarantine\\cleanup-20260805-113740\\9f5a08e117a448828e8a1f7cdb45f242___init__.py",
+        "FileName":  "__init__.py",
+        "SizeBytes":  176,
+        "LastWriteTime":  "\/Date(1785918836989)\/",
+        "MovedAt":  {
+                        "value":  "\/Date(1785929860914)\/",
+                        "DisplayHint":  2,
+                        "DateTime":  "Wednesday, August 5, 2026 11:37:40 AM"
+                    }
+    }
+]

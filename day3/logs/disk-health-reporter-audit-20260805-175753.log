@@ -1,0 +1,29 @@
+[2026-08-05 17:57:53] [INFO] Starting audit mode. LowFreeSpacePercent=15, SkipOptimizationAnalysis=False
+[2026-08-05 17:57:53] [INFO] Scanning drive: C:
+[2026-08-05 17:57:57] [INFO] Optimization analysis completed for C
+[2026-08-05 17:57:57] [INFO] Reported drive C: with status Healthy
+[2026-08-05 17:57:57] [INFO] Scanning drive: D:
+[2026-08-05 17:58:00] [INFO] Optimization analysis completed for D
+[2026-08-05 17:58:00] [INFO] Reported drive D: with status Healthy
+[2026-08-05 17:58:00] [INFO] Report written to: C:\Users\labuser\Documents\Training\day3\reports\disk-health-reporter-audit-20260805-175753.csv
+[2026-08-05 17:58:00] [INFO] Snapshot manifest created: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175753\manifest-20260805-175753.json
+[2026-08-05 17:58:00] [INFO] Run summary:
+[2026-08-05 17:58:00] [INFO] Mode: audit
+[2026-08-05 17:58:00] [INFO] LowFreeSpacePercent: 15
+[2026-08-05 17:58:00] [INFO] DrivesScanned: 2
+[2026-08-05 17:58:00] [INFO] VolumesReported: 2
+[2026-08-05 17:58:00] [INFO] HealthyVolumes: 2
+[2026-08-05 17:58:00] [INFO] WarningVolumes: 0
+[2026-08-05 17:58:00] [INFO] CriticalVolumes: 0
+[2026-08-05 17:58:00] [INFO] LowFreeSpaceVolumes: 0
+[2026-08-05 17:58:00] [INFO] OptimizationAnalysed: 2
+[2026-08-05 17:58:00] [INFO] OptimizationSkipped: 0
+[2026-08-05 17:58:00] [INFO] OptimizationUnavailable: 0
+[2026-08-05 17:58:00] [INFO] DryRunWouldWriteReport: 0
+[2026-08-05 17:58:00] [INFO] RollbackRestored: 0
+[2026-08-05 17:58:00] [INFO] RollbackSkipped: 0
+[2026-08-05 17:58:00] [INFO] Errors: 0
+[2026-08-05 17:58:00] [INFO] ReportPath: C:\Users\labuser\Documents\Training\day3\reports\disk-health-reporter-audit-20260805-175753.csv
+[2026-08-05 17:58:00] [INFO] SnapshotPath: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175753\disk-health-reporter-audit-20260805-175753.csv
+[2026-08-05 17:58:00] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175753\manifest-20260805-175753.json
+[2026-08-05 17:58:00] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\disk-health-reporter-audit-20260805-175753.log

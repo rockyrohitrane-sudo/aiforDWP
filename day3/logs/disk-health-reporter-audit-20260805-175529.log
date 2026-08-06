@@ -1,0 +1,30 @@
+[2026-08-05 17:55:29] [INFO] Starting audit mode. LowFreeSpacePercent=15, SkipOptimizationAnalysis=True
+[2026-08-05 17:55:29] [INFO] Scanning drive: C:
+[2026-08-05 17:55:31] [INFO] Optimization analysis skipped for C: requested by parameter.
+[2026-08-05 17:55:31] [INFO] Reported drive C: with status Healthy
+[2026-08-05 17:55:31] [ERROR] Failed to process drive 'C:': The property 'OptimizationStatus' cannot be found on this object. Verify that the property exists.
+[2026-08-05 17:55:31] [INFO] Scanning drive: D:
+[2026-08-05 17:55:31] [INFO] Optimization analysis skipped for D: requested by parameter.
+[2026-08-05 17:55:31] [INFO] Reported drive D: with status Healthy
+[2026-08-05 17:55:31] [ERROR] Failed to process drive 'D:': The property 'OptimizationStatus' cannot be found on this object. Verify that the property exists.
+[2026-08-05 17:55:31] [ERROR] Fatal error: Type: System.Management.Automation.PropertyNotFoundException | Message: The property 'DriveLetter' cannot be found on this object. Verify that the property exists. | Position: At C:\Users\labuser\Documents\Training\day3\disk-health-reporter.ps1:429 char:9
++         Write-Output ("{0} | {1} | {2} | {3} | {4} | {5}% free | Opti ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ | Stack: at Invoke-Audit, C:\Users\labuser\Documents\Training\day3\disk-health-reporter.ps1: line 429
+at <ScriptBlock>, C:\Users\labuser\Documents\Training\day3\disk-health-reporter.ps1: line 519
+[2026-08-05 17:55:31] [INFO] Run summary:
+[2026-08-05 17:55:31] [INFO] Mode: audit
+[2026-08-05 17:55:31] [INFO] LowFreeSpacePercent: 15
+[2026-08-05 17:55:31] [INFO] DrivesScanned: 2
+[2026-08-05 17:55:31] [INFO] VolumesReported: 2
+[2026-08-05 17:55:31] [INFO] HealthyVolumes: 2
+[2026-08-05 17:55:31] [INFO] WarningVolumes: 0
+[2026-08-05 17:55:31] [INFO] CriticalVolumes: 0
+[2026-08-05 17:55:31] [INFO] LowFreeSpaceVolumes: 0
+[2026-08-05 17:55:31] [INFO] OptimizationAnalysed: 0
+[2026-08-05 17:55:31] [INFO] OptimizationSkipped: 2
+[2026-08-05 17:55:31] [INFO] OptimizationUnavailable: 0
+[2026-08-05 17:55:31] [INFO] DryRunWouldWriteReport: 0
+[2026-08-05 17:55:31] [INFO] RollbackRestored: 0
+[2026-08-05 17:55:31] [INFO] RollbackSkipped: 0
+[2026-08-05 17:55:31] [INFO] Errors: 3
+[2026-08-05 17:55:31] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\disk-health-reporter-audit-20260805-175529.log

@@ -1,0 +1,18 @@
+[2026-08-05 17:30:51] [INFO] Starting audit mode. ThresholdMB=1, DryRun=True
+[2026-08-05 17:30:51] [INFO] Scanning target: C:\Users\labuser\Documents\Training\day3
+[2026-08-05 17:30:51] [ERROR] Fatal error: The property 'Count' cannot be found on this object. Verify that the property exists.
+[2026-08-05 17:30:51] [INFO] Run summary:
+[2026-08-05 17:30:51] [INFO] Mode: audit
+[2026-08-05 17:30:51] [INFO] ThresholdMB: 1
+[2026-08-05 17:30:51] [INFO] TargetFoldersScanned: 1
+[2026-08-05 17:30:51] [INFO] FilesEnumerated: 23
+[2026-08-05 17:30:51] [INFO] FilesMatched: 0
+[2026-08-05 17:30:51] [INFO] FilesQuarantined: 0
+[2026-08-05 17:30:51] [INFO] FilesRestored: 0
+[2026-08-05 17:30:51] [INFO] DryRunWouldQuarantine: 0
+[2026-08-05 17:30:51] [INFO] SkippedAlreadyQuarantined: 0
+[2026-08-05 17:30:51] [INFO] SkippedAlreadyRestored: 0
+[2026-08-05 17:30:51] [INFO] SkippedMissingSource: 0
+[2026-08-05 17:30:51] [INFO] SkippedUnreachablePath: 0
+[2026-08-05 17:30:51] [INFO] Errors: 1
+[2026-08-05 17:30:51] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\large-file-finder-audit-20260805-173051.log

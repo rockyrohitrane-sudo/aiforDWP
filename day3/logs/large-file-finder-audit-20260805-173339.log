@@ -1,0 +1,21 @@
+[2026-08-05 17:33:39] [INFO] Starting audit mode. ThresholdMB=1, DryRun=True
+[2026-08-05 17:33:39] [INFO] Scanning target: C:\Users\labuser\Documents\Training\day3
+[2026-08-05 17:33:40] [ERROR] Fatal error: Type: System.Management.Automation.PropertyNotFoundException | Message: The property 'FullName' cannot be found on this object. Verify that the property exists. | Position: At C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1:474 char:9
++         Write-Output ("{0} | {1} | {2} bytes | {3}" -f $match.FullNam ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ | Stack: at Invoke-Audit, C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1: line 474
+at <ScriptBlock>, C:\Users\labuser\Documents\Training\day3\large-file-finder.ps1: line 520
+[2026-08-05 17:33:40] [INFO] Run summary:
+[2026-08-05 17:33:40] [INFO] Mode: audit
+[2026-08-05 17:33:40] [INFO] ThresholdMB: 1
+[2026-08-05 17:33:40] [INFO] TargetFoldersScanned: 1
+[2026-08-05 17:33:40] [INFO] FilesEnumerated: 29
+[2026-08-05 17:33:40] [INFO] FilesMatched: 0
+[2026-08-05 17:33:40] [INFO] FilesQuarantined: 0
+[2026-08-05 17:33:40] [INFO] FilesRestored: 0
+[2026-08-05 17:33:40] [INFO] DryRunWouldQuarantine: 0
+[2026-08-05 17:33:40] [INFO] SkippedAlreadyQuarantined: 0
+[2026-08-05 17:33:40] [INFO] SkippedAlreadyRestored: 0
+[2026-08-05 17:33:40] [INFO] SkippedMissingSource: 0
+[2026-08-05 17:33:40] [INFO] SkippedUnreachablePath: 0
+[2026-08-05 17:33:40] [INFO] Errors: 1
+[2026-08-05 17:33:40] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\large-file-finder-audit-20260805-173339.log

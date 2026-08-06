@@ -1,0 +1,22 @@
+[2026-08-05 17:51:23] [INFO] Starting audit mode. LowFreeSpacePercent=15, SkipOptimizationAnalysis=True
+[2026-08-05 17:51:23] [INFO] Scanning drive: C:
+[2026-08-05 17:51:24] [INFO] Optimisation analysis skipped for C:
+[2026-08-05 17:51:24] [INFO] Reported drive C: with status Healthy
+[2026-08-05 17:51:24] [INFO] DRY RUN: Would write report to C:\Users\labuser\Documents\Training\day3\reports\disk-health-reporter-audit-20260805-175123.csv
+[2026-08-05 17:51:24] [INFO] Run summary:
+[2026-08-05 17:51:24] [INFO] Mode: audit
+[2026-08-05 17:51:24] [INFO] LowFreeSpacePercent: 15
+[2026-08-05 17:51:24] [INFO] DrivesScanned: 1
+[2026-08-05 17:51:24] [INFO] VolumesReported: 1
+[2026-08-05 17:51:24] [INFO] HealthyVolumes: 1
+[2026-08-05 17:51:24] [INFO] WarningVolumes: 0
+[2026-08-05 17:51:24] [INFO] CriticalVolumes: 0
+[2026-08-05 17:51:24] [INFO] LowFreeSpaceVolumes: 0
+[2026-08-05 17:51:24] [INFO] OptimizationAnalysed: 0
+[2026-08-05 17:51:24] [INFO] OptimizationSkipped: 1
+[2026-08-05 17:51:24] [INFO] OptimizationUnavailable: 0
+[2026-08-05 17:51:24] [INFO] DryRunWouldWriteReport: 1
+[2026-08-05 17:51:24] [INFO] RollbackRestored: 0
+[2026-08-05 17:51:24] [INFO] RollbackSkipped: 0
+[2026-08-05 17:51:25] [INFO] Errors: 0
+[2026-08-05 17:51:25] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\disk-health-reporter-audit-20260805-175123.log

@@ -1,0 +1,21 @@
+[2026-08-05 11:37:48] [INFO] Starting cleanup mode. OlderThanDays=0, DryRun=True
+[2026-08-05 11:37:48] [INFO] Scanning target: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 11:37:48] [WARN] Locked file skipped: C:\Users\labuser\AppData\Local\Temp\2\fd4caa90-aad6-4a12-88f3-6c5fc9f726a0.tmp
+[2026-08-05 11:37:48] [INFO] Scanning target: C:\Windows\Temp
+[2026-08-05 11:37:48] [ERROR] Error scanning target 'C:\Windows\Temp': Access to the path 'C:\Windows\Temp' is denied.
+[2026-08-05 11:37:48] [INFO] Run summary:
+[2026-08-05 11:37:48] [INFO]   Mode: cleanup
+[2026-08-05 11:37:48] [INFO]   TargetFoldersScanned: 2
+[2026-08-05 11:37:48] [INFO]   FilesEnumerated: 1
+[2026-08-05 11:37:48] [INFO]   FilesEligible: 1
+[2026-08-05 11:37:48] [INFO]   FilesMoved: 0
+[2026-08-05 11:37:48] [INFO]   FilesRestored: 0
+[2026-08-05 11:37:48] [INFO]   DryRunWouldMove: 0
+[2026-08-05 11:37:48] [INFO]   SkippedTooNew: 0
+[2026-08-05 11:37:48] [INFO]   SkippedLocked: 1
+[2026-08-05 11:37:48] [INFO]   SkippedSafety: 0
+[2026-08-05 11:37:48] [INFO]   SkippedMissingBackup: 0
+[2026-08-05 11:37:48] [INFO]   SkippedAlreadyPresent: 0
+[2026-08-05 11:37:48] [INFO]   Errors: 1
+[2026-08-05 11:37:48] [INFO]   ManifestPath: 
+[2026-08-05 11:37:48] [INFO]   LogFile: C:\Users\labuser\Documents\Training\day3\logs\temp-file-cleanup-cleanup-20260805-113748.log

@@ -1,0 +1,24 @@
+[2026-08-05 11:37:40] [INFO] Starting cleanup mode. OlderThanDays=0, DryRun=False
+[2026-08-05 11:37:40] [INFO] Scanning target: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 11:37:40] [WARN] Locked file skipped: C:\Users\labuser\AppData\Local\Temp\2\fd4caa90-aad6-4a12-88f3-6c5fc9f726a0.tmp
+[2026-08-05 11:37:40] [INFO] Moved file: 'C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat' -> 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\04c0439252584366992049a71055ec6f_dicts.dat'
+[2026-08-05 11:37:40] [INFO] Moved file: 'C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py' -> 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\9f5a08e117a448828e8a1f7cdb45f242___init__.py'
+[2026-08-05 11:37:40] [INFO] Scanning target: C:\Windows\Temp
+[2026-08-05 11:37:40] [ERROR] Error scanning target 'C:\Windows\Temp': Access to the path 'C:\Windows\Temp' is denied.
+[2026-08-05 11:37:41] [INFO] Manifest created: C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\manifest-20260805-113740.json
+[2026-08-05 11:37:41] [INFO] Run summary:
+[2026-08-05 11:37:41] [INFO]   Mode: cleanup
+[2026-08-05 11:37:41] [INFO]   TargetFoldersScanned: 2
+[2026-08-05 11:37:41] [INFO]   FilesEnumerated: 3
+[2026-08-05 11:37:41] [INFO]   FilesEligible: 3
+[2026-08-05 11:37:41] [INFO]   FilesMoved: 2
+[2026-08-05 11:37:41] [INFO]   FilesRestored: 0
+[2026-08-05 11:37:41] [INFO]   DryRunWouldMove: 0
+[2026-08-05 11:37:41] [INFO]   SkippedTooNew: 0
+[2026-08-05 11:37:41] [INFO]   SkippedLocked: 1
+[2026-08-05 11:37:41] [INFO]   SkippedSafety: 0
+[2026-08-05 11:37:41] [INFO]   SkippedMissingBackup: 0
+[2026-08-05 11:37:41] [INFO]   SkippedAlreadyPresent: 0
+[2026-08-05 11:37:41] [INFO]   Errors: 1
+[2026-08-05 11:37:41] [INFO]   ManifestPath: C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\manifest-20260805-113740.json
+[2026-08-05 11:37:41] [INFO]   LogFile: C:\Users\labuser\Documents\Training\day3\logs\temp-file-cleanup-cleanup-20260805-113740.log

@@ -1,0 +1,25 @@
+[2026-08-05 17:52:13] [INFO] Starting audit mode. LowFreeSpacePercent=15, SkipOptimizationAnalysis=True
+[2026-08-05 17:52:13] [INFO] Scanning drive: C:
+[2026-08-05 17:52:14] [INFO] Optimisation analysis skipped for C:
+[2026-08-05 17:52:14] [INFO] Reported drive C: with status Healthy
+[2026-08-05 17:52:14] [INFO] Report written to: C:\Users\labuser\Documents\Training\day3\reports\disk-health-reporter-audit-20260805-175213.csv
+[2026-08-05 17:52:15] [INFO] Snapshot manifest created: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175213\manifest-20260805-175213.json
+[2026-08-05 17:52:15] [INFO] Run summary:
+[2026-08-05 17:52:15] [INFO] Mode: audit
+[2026-08-05 17:52:15] [INFO] LowFreeSpacePercent: 15
+[2026-08-05 17:52:15] [INFO] DrivesScanned: 1
+[2026-08-05 17:52:15] [INFO] VolumesReported: 1
+[2026-08-05 17:52:15] [INFO] HealthyVolumes: 1
+[2026-08-05 17:52:15] [INFO] WarningVolumes: 0
+[2026-08-05 17:52:15] [INFO] CriticalVolumes: 0
+[2026-08-05 17:52:15] [INFO] LowFreeSpaceVolumes: 0
+[2026-08-05 17:52:15] [INFO] OptimizationAnalysed: 0
+[2026-08-05 17:52:15] [INFO] OptimizationSkipped: 1
+[2026-08-05 17:52:15] [INFO] OptimizationUnavailable: 0
+[2026-08-05 17:52:15] [INFO] DryRunWouldWriteReport: 0
+[2026-08-05 17:52:15] [INFO] RollbackRestored: 0
+[2026-08-05 17:52:15] [INFO] RollbackSkipped: 0
+[2026-08-05 17:52:15] [INFO] Errors: 0
+[2026-08-05 17:52:15] [INFO] ReportPath: C:\Users\labuser\Documents\Training\day3\reports\disk-health-reporter-audit-20260805-175213.csv
+[2026-08-05 17:52:15] [INFO] SnapshotPath: [2026-08-05 17:52:15] [INFO] Snapshot manifest created: C:\Users\labuser\Documents\Training\day3\rollback\disk-health-reporter-20260805-175213\manifest-20260805-175213.json
+[2026-08-05 17:52:15] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\disk-health-reporter-audit-20260805-175213.log

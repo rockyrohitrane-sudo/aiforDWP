@@ -1,0 +1,3 @@
+﻿"DriveLetter","Label","FileSystem","HealthStatus","OperationalStatus","OverallStatus","SizeGB","FreeGB","FreePercent","LowFreeSpacePercent","OptimizationStatus","OptimizationDetails","ReportedAtUtc"
+"C:","Windows","NTFS","Healthy","OK","Healthy","29.45","15.87","53.91","15","Analyzed","Analysis completed","2026-08-05T17:57:57.6448170Z"
+"D:","Temporary Storage","NTFS","Healthy","OK","Healthy","16","14.57","91.08","15","Analyzed","Analysis completed","2026-08-05T17:58:00.4240858Z"

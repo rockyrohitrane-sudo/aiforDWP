@@ -1,0 +1,9 @@
+﻿{
+    "CreatedAtUtc":  "2026-08-05T17:57:21.9666259Z",
+    "ComputerName":  "c264-22-1",
+    "UserName":  "labuser",
+    "LowFreeSpacePercent":  15,
+    "ReportPath":  "C:\\Users\\labuser\\Documents\\Training\\day3\\reports\\disk-health-reporter-audit-20260805-175719.csv",
+    "SnapshotReportPath":  "C:\\Users\\labuser\\Documents\\Training\\day3\\rollback\\disk-health-reporter-20260805-175719\\disk-health-reporter-audit-20260805-175719.csv",
+    "Mode":  "Audit"
+}

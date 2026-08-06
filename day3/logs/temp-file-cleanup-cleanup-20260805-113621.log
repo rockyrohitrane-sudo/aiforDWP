@@ -1,0 +1,18 @@
+[2026-08-05 11:36:21] [INFO] Starting cleanup mode. OlderThanDays=9999, DryRun=True
+[2026-08-05 11:36:21] [INFO] Scanning target: C:\Users\labuser\Documents\Training\day3
+[2026-08-05 11:36:21] [INFO] Run summary:
+[2026-08-05 11:36:21] [INFO]   Mode: cleanup
+[2026-08-05 11:36:21] [INFO]   TargetFoldersScanned: 1
+[2026-08-05 11:36:21] [INFO]   FilesEnumerated: 4
+[2026-08-05 11:36:21] [INFO]   FilesEligible: 0
+[2026-08-05 11:36:21] [INFO]   FilesMoved: 0
+[2026-08-05 11:36:21] [INFO]   FilesRestored: 0
+[2026-08-05 11:36:21] [INFO]   DryRunWouldMove: 0
+[2026-08-05 11:36:21] [INFO]   SkippedTooNew: 4
+[2026-08-05 11:36:21] [INFO]   SkippedLocked: 0
+[2026-08-05 11:36:21] [INFO]   SkippedSafety: 0
+[2026-08-05 11:36:21] [INFO]   SkippedMissingBackup: 0
+[2026-08-05 11:36:21] [INFO]   SkippedAlreadyPresent: 0
+[2026-08-05 11:36:21] [INFO]   Errors: 0
+[2026-08-05 11:36:21] [INFO]   ManifestPath: 
+[2026-08-05 11:36:21] [INFO]   LogFile: C:\Users\labuser\Documents\Training\day3\logs\temp-file-cleanup-cleanup-20260805-113621.log

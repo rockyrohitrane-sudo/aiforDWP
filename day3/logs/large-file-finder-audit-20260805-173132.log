@@ -1,0 +1,18 @@
+[2026-08-05 17:31:32] [INFO] Starting audit mode. ThresholdMB=1, DryRun=True
+[2026-08-05 17:31:32] [INFO] Scanning target: C:\Users\labuser\Documents\Training\day3
+[2026-08-05 17:31:32] [ERROR] Fatal error: Argument types do not match
+[2026-08-05 17:31:32] [INFO] Run summary:
+[2026-08-05 17:31:32] [INFO] Mode: audit
+[2026-08-05 17:31:32] [INFO] ThresholdMB: 1
+[2026-08-05 17:31:32] [INFO] TargetFoldersScanned: 1
+[2026-08-05 17:31:32] [INFO] FilesEnumerated: 24
+[2026-08-05 17:31:32] [INFO] FilesMatched: 0
+[2026-08-05 17:31:32] [INFO] FilesQuarantined: 0
+[2026-08-05 17:31:32] [INFO] FilesRestored: 0
+[2026-08-05 17:31:32] [INFO] DryRunWouldQuarantine: 0
+[2026-08-05 17:31:32] [INFO] SkippedAlreadyQuarantined: 0
+[2026-08-05 17:31:32] [INFO] SkippedAlreadyRestored: 0
+[2026-08-05 17:31:32] [INFO] SkippedMissingSource: 0
+[2026-08-05 17:31:32] [INFO] SkippedUnreachablePath: 0
+[2026-08-05 17:31:32] [INFO] Errors: 1
+[2026-08-05 17:31:32] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\large-file-finder-audit-20260805-173132.log

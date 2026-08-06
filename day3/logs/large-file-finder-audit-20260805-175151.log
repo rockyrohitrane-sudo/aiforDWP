@@ -1,0 +1,23 @@
+[2026-08-05 17:51:51] [INFO] Starting audit mode. ThresholdMB=100, DryRun=False
+[2026-08-05 17:51:51] [INFO] Scanning target: C:\Users\labuser
+[2026-08-05 17:51:56] [INFO] Matched large file: C:\Users\labuser\AppData\Local\Temp\2\vscode-stable-system-x64\CodeSetup-stable-df53daabb18cd157bdb08c7f01c34df936cf12f4.exe (226.78 MB)
+[2026-08-05 17:51:56] [INFO] Scanning target: C:\Windows\Temp
+[2026-08-05 17:51:56] [INFO] Matched large file: C:\Windows\Temp\chocolatey\activitywatch\0.13.2\activitywatch-v0.13.2-windows-x86_64.zip (109.69 MB)
+[2026-08-05 17:51:56] [INFO] Matched large file: C:\Windows\Temp\chocolatey\vscode.install\1.131.0\VSCodeSetup-x64-1.131.0.exe (221.58 MB)
+[2026-08-05 17:51:56] [INFO] Report written to: C:\Users\labuser\Documents\Training\day3\reports\large-file-finder-audit-20260805-175151.csv
+[2026-08-05 17:51:56] [INFO] Run summary:
+[2026-08-05 17:51:56] [INFO] Mode: audit
+[2026-08-05 17:51:56] [INFO] ThresholdMB: 100
+[2026-08-05 17:51:56] [INFO] TargetFoldersScanned: 2
+[2026-08-05 17:51:56] [INFO] FilesEnumerated: 3287
+[2026-08-05 17:51:56] [INFO] FilesMatched: 3
+[2026-08-05 17:51:56] [INFO] FilesQuarantined: 0
+[2026-08-05 17:51:56] [INFO] FilesRestored: 0
+[2026-08-05 17:51:56] [INFO] DryRunWouldQuarantine: 0
+[2026-08-05 17:51:56] [INFO] SkippedAlreadyQuarantined: 0
+[2026-08-05 17:51:56] [INFO] SkippedAlreadyRestored: 0
+[2026-08-05 17:51:56] [INFO] SkippedMissingSource: 0
+[2026-08-05 17:51:56] [INFO] SkippedUnreachablePath: 0
+[2026-08-05 17:51:56] [INFO] Errors: 0
+[2026-08-05 17:51:56] [INFO] ReportPath: C:\Users\labuser\Documents\Training\day3\reports\large-file-finder-audit-20260805-175151.csv
+[2026-08-05 17:51:56] [INFO] LogFile: C:\Users\labuser\Documents\Training\day3\logs\large-file-finder-audit-20260805-175151.log

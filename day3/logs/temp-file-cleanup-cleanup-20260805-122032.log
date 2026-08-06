@@ -1,0 +1,25 @@
+[2026-08-05 12:20:32] [INFO] Starting cleanup mode. OlderThanDays=0, DryRun=True
+[2026-08-05 12:20:32] [INFO] Scanning target: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 12:20:32] [WARN] Locked file skipped: C:\Users\labuser\AppData\Local\Temp\2\fd4caa90-aad6-4a12-88f3-6c5fc9f726a0.tmp
+[2026-08-05 12:20:32] [INFO] DRY RUN: Would move 'C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat' to 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-122032\e1ce54b40a554200ae4af59355a5be23_dicts.dat'
+[2026-08-05 12:20:32] [INFO] DRY RUN: Would move 'C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py' to 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-122032\f6bc23c5983d499eb8fcc3480fa71efc___init__.py'
+[2026-08-05 12:20:32] [INFO] DRY RUN: Would move 'C:\Users\labuser\AppData\Local\Temp\2\vscode-stable-system-x64\CodeSetup-stable-df53daabb18cd157bdb08c7f01c34df936cf12f4.exe' to 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-122032\6025acf1580b4b64ad7f80da0dd857c6_CodeSetup-stable-df53daabb18cd157bdb08c7f01c34df936cf12f4.exe'
+[2026-08-05 12:20:32] [INFO] DRY RUN: Would move 'C:\Users\labuser\AppData\Local\Temp\2\vscode-stable-system-x64\update-metadata.json' to 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-122032\b01e217850d748b180dc440a7aa81b42_update-metadata.json'
+[2026-08-05 12:20:32] [INFO] Scanning target: C:\Windows\Temp
+[2026-08-05 12:20:32] [ERROR] Error scanning target 'C:\Windows\Temp': Access to the path 'C:\Windows\Temp' is denied.
+[2026-08-05 12:20:32] [INFO] Run summary:
+[2026-08-05 12:20:32] [INFO]   Mode: cleanup
+[2026-08-05 12:20:32] [INFO]   TargetFoldersScanned: 2
+[2026-08-05 12:20:32] [INFO]   FilesEnumerated: 5
+[2026-08-05 12:20:32] [INFO]   FilesEligible: 5
+[2026-08-05 12:20:32] [INFO]   FilesMoved: 0
+[2026-08-05 12:20:32] [INFO]   FilesRestored: 0
+[2026-08-05 12:20:32] [INFO]   DryRunWouldMove: 4
+[2026-08-05 12:20:32] [INFO]   SkippedTooNew: 0
+[2026-08-05 12:20:32] [INFO]   SkippedLocked: 1
+[2026-08-05 12:20:32] [INFO]   SkippedSafety: 0
+[2026-08-05 12:20:32] [INFO]   SkippedMissingBackup: 0
+[2026-08-05 12:20:32] [INFO]   SkippedAlreadyPresent: 0
+[2026-08-05 12:20:32] [INFO]   Errors: 1
+[2026-08-05 12:20:32] [INFO]   ManifestPath: 
+[2026-08-05 12:20:32] [INFO]   LogFile: C:\Users\labuser\Documents\Training\day3\logs\temp-file-cleanup-cleanup-20260805-122032.log

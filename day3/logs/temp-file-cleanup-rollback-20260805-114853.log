@@ -1,0 +1,19 @@
+[2026-08-05 11:48:53] [INFO] Starting rollback mode using manifest: C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\manifest-20260805-113740.json
+[2026-08-05 11:48:53] [INFO] Restored file: 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\04c0439252584366992049a71055ec6f_dicts.dat' -> 'C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat'
+[2026-08-05 11:48:53] [INFO] Restored file: 'C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\9f5a08e117a448828e8a1f7cdb45f242___init__.py' -> 'C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py'
+[2026-08-05 11:48:53] [INFO] Run summary:
+[2026-08-05 11:48:53] [INFO]   Mode: rollback
+[2026-08-05 11:48:53] [INFO]   TargetFoldersScanned: 0
+[2026-08-05 11:48:53] [INFO]   FilesEnumerated: 0
+[2026-08-05 11:48:53] [INFO]   FilesEligible: 0
+[2026-08-05 11:48:53] [INFO]   FilesMoved: 0
+[2026-08-05 11:48:53] [INFO]   FilesRestored: 2
+[2026-08-05 11:48:53] [INFO]   DryRunWouldMove: 0
+[2026-08-05 11:48:53] [INFO]   SkippedTooNew: 0
+[2026-08-05 11:48:53] [INFO]   SkippedLocked: 0
+[2026-08-05 11:48:53] [INFO]   SkippedSafety: 0
+[2026-08-05 11:48:53] [INFO]   SkippedMissingBackup: 0
+[2026-08-05 11:48:53] [INFO]   SkippedAlreadyPresent: 0
+[2026-08-05 11:48:53] [INFO]   Errors: 0
+[2026-08-05 11:48:53] [INFO]   ManifestPath: C:\Users\labuser\Documents\Training\day3\quarantine\cleanup-20260805-113740\manifest-20260805-113740.json
+[2026-08-05 11:48:53] [INFO]   LogFile: C:\Users\labuser\Documents\Training\day3\logs\temp-file-cleanup-rollback-20260805-114853.log
